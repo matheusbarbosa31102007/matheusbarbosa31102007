@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil ♥️
 
-<!--
-**matheusbarbosa31102007/matheusbarbosa31102007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e matheus
 
-Here are some ideas to get you started:
+etou estudando na alura
+estou deenvoendo na linguagem javascript
+ultilizo esse espaço para minha organizaçao dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo
+
+matheus31barbosa10@gmail.com
+@_black.zin444_
+https://media.tenor.com/JNZvCXyhKogAAAAd/wheel-spinning.gif
