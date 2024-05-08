@@ -1,9 +1,9 @@
-### boas vindas ao meu perfil ♥️
+### boas vindas ao meu perfil 
 
 meu nome e matheus
 
 etou estudando na alura
-estou deenvoendo na linguagem javascript
+estou desenvoendo na linguagem javascript
 ultilizo esse espaço para minha organizaçao dos meus projetos desenvolvidos
 
 ### voce entrar em contato comigo
